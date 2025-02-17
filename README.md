@@ -1,7 +1,7 @@
 # SaveTheEarth
 
 
-<img src="https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white" /> <img src="https://img.shields.io/badge/blender-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white" />
 
 
 
@@ -15,7 +15,7 @@
 
 제작 기간 : 2024.08.26 ~ 2024.09.27
 
-제작툴: Unity URP
+제작툴: Unity URP, Photon, Blender
 
 ---
 <h2>주요 역할</h2>

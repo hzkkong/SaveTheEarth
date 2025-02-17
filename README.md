@@ -1,6 +1,38 @@
 # SaveTheEarth
 
 
+<img src="https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white" />
+
+
+
+<h2>3차 프로젝트 환경 보호 체험 메타버스 플랫폼</h2>
+
+<h3>Team.지구방범대</h3>
+
+팀장 공혜지
+
+공혜지(Unity), 김준성(Unity), 박진영(Unity), 김은설(AI)
+
+제작 기간 : 2024.08.26 ~ 2024.09.27
+
+제작툴: Unity URP
+
+---
+<h2>주요 역할</h2>
+  
+
+공혜지: Photon 관리, AI 챗봇 클라이언트 연동 시스템
+
+
+---
+
+캐릭터 및 오브젝트 데이터: Unity Asset Store
+
+
+
+
+
+
 ### 메인 UI 컬러 설정
 
 

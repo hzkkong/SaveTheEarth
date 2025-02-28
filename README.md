@@ -3,13 +3,23 @@
 
 <img src="https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white" /> <img src="https://img.shields.io/badge/blender-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white" />
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0bb92064-9cbb-488d-8334-521aaa338462" width="24%">
+  <img src="https://github.com/user-attachments/assets/0137a852-e06a-4ee3-8c13-3fb5d5b6d9d1" width="24%">
+  <img src="https://github.com/user-attachments/assets/8b7319c3-a746-43ec-8e52-d64d99d9400f" width="24%">
+  <img src="https://github.com/user-attachments/assets/e146d8e1-b456-4f25-b0af-5a49517f24d6" width="24%">
+</p>
+
+
+
+
 
 
 <h2>3차 프로젝트 환경 보호 체험 메타버스 플랫폼</h2>
 
 <h3>Team.지구방범대</h3>
 
-팀장 공혜지
+팀장 : 공혜지
 
 공혜지(Unity), 김준성(Unity), 박진영(Unity), 김은설(AI)
 
@@ -29,6 +39,7 @@
 
 
 ---
+
 
 
 
